@@ -1,0 +1,1 @@
+rule ExampleRule { strings: $a = "malware" condition: $a }
