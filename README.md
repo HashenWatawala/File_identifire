@@ -77,4 +77,3 @@ This tool is designed for educational and professional malware analysis. Always 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Created by [Antigravity AI](https://github.com/google-deepmind) for professional security research.*
