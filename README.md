@@ -2,7 +2,8 @@
 
 CyberScan is a high-performance, industry-standard file identification and malware analysis tool. Built with **PyQt6**, it provides a "hacker-style" professional interface for rapid file triage, featuring signature matching, YARA rule integration, and live VirusTotal analysis.
 
-![CyberScan Preview](https://via.placeholder.com/800x450/0d0d0d/00ff00?text=CYBERSCAN+V2.0+INTERFACE+PREVIEW)
+<img width="999" height="786" alt="image" src="https://github.com/user-attachments/assets/ccb24d9b-ba07-4311-a744-254e48845870" />
+
 
 ## ✨ Core Features
 
